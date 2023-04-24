@@ -1,0 +1,3 @@
+codeSemester	nameSemester	number of Weeks
+SP22	Spring 2022	10
+SU23	Summer 2023	15

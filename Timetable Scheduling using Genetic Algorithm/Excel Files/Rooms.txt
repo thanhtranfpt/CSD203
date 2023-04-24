@@ -1,0 +1,6 @@
+nameRoom	typeRoom	Description
+012	Classroom	NULL
+113	Seminar	NULL
+234	Classroom	20 desks
+220	Classroom	NULL
+610	Classroom	NULL

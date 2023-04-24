@@ -1,0 +1,10 @@
+codeSubject	nameSubject	number of Slots
+MAE101	Mathematics for Engineering	30
+PFP203	Fundermental Programming with Python	30
+CEA201	Computer Organization and Architecture	30
+CSI104	Introduction to computing	40
+PRF107	Fundermental Programming with C	30
+MAD101	Discrete Mathematics	25
+TRS6	English level 6	40
+CSD203	Data structure and Algorithms with Python_Cấu trúc dữ liệu và giải thuật với Python	30
+AIG201c	Artificial Intelligence_Trí tuệ nhân tạo (Coursera)	5

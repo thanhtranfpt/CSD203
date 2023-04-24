@@ -1,0 +1,3 @@
+Major	Name
+AI	Artificial Intelligence
+SE	Software Engineering

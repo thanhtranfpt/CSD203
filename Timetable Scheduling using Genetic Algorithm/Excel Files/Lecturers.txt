@@ -1,0 +1,7 @@
+code	name	Email	Phone	Studying	teachingSubjects	minSlot	maxSlot	skipDays
+VinhNT01	Nguyễn Thế Vinh	vinhnt01@fe.edu.vn	NULL	Computer Science	MAE101,AIG201c,CSD203	7	24	NULL
+BaoTG02	Trương Gia Bảo	baotg02@fe.edu.vn	0936759826	Data Science	MAD101,AIG201c,CSD203,DBI202	9	24	Wed, Sat
+BinhPT01	Phạm Thị Bình	binhpt01@fe.edu.vn	NULL	Sorfware Engineer	MAE101,MAD201,TRS6	8	24	NULL
+KiemHH02	Hồ Hoàn Kiếm	kiemhh02@fe.edu.vn	NULL	Sorfware Engineer	PFP203,CEA201,CSI104,PRF107	12	24	NULL
+PhiTT	Truong Tuan Phi	NULL	NULL	NULL	CSD203	20	30	NULL
+ThanhTX	TRAN XUAN THANH	NULL	NULL	NULL	CSD203	0	50	NULL
